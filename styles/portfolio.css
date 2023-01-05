@@ -220,3 +220,30 @@ main {
     margin-bottom: 113px;
     margin-top: 50px;
 }
+/* contact */
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+
+.contact .section-title,.section-description{
+    text-align: left;
+}
+.contact input[type="text"],input[type="email"],textarea{
+    width: 100%;
+    padding:18px 30px ;
+    border: 0;
+}
+.contact input{
+    margin-bottom: 24px;
+}
+.contact .btn-primary{
+    margin-top: 24px;
+    margin-bottom: 110px;
+}
+.contact a{
+    text-decoration: none;
+    margin-left: 10px;
+}
