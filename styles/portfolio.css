@@ -2,7 +2,9 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
-
+.header{
+    background: #FFF8F3;
+}
 .text-primary {
     color: #FD6E0A;
 }
@@ -20,7 +22,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 51px 200px;
+    padding: 51px 200px;
 }
 
 .nav-title {
